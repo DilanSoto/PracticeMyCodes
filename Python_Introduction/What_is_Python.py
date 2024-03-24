@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+def print_python_info():
+    print("""
 # What is Python?
 # Python is a high-level, interpreted programming language commonly used for software development, web development, scripting, data analysis, artificial intelligence, and more. It is known for its clear and readable syntax, making it ideal for beginners and powerful for complex projects.
 
@@ -16,3 +18,6 @@
 
 # Community and Resources:
 # Python has a large community of active developers who contribute libraries, tools, and tutorials. There are plenty of online resources such as official documentation, tutorials, forums, and social media communities that can be very helpful for learning and problem-solving.
+    """)
+
+print_python_info()
